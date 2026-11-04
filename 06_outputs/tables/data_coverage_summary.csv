@@ -1,0 +1,12 @@
+,first_year,last_year,available_years,missing_years
+year,2000,2024,25,0
+maize_production_tonnes,2000,2024,25,0
+maize_yield_kg_per_ha,2000,2024,25,0
+maize_area_harvested_ha,2000,2024,25,0
+avg_maize_retail_price_kes,2006,2024,19,6
+avg_maize_retail_price_usd,2006,2024,19,6
+rainfall_mm,2000,2022,23,2
+temperature_c,2000,2021,22,3
+spei,2000,2023,24,1
+heat_index_35,2000,2024,25,0
+food_insecurity_percent,2015,2022,8,17

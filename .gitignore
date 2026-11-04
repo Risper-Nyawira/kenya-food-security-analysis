@@ -1,0 +1,10 @@
+# Original downloads can be retrieved from the documented sources.
+01_data/raw/
+
+# Local database file and application settings.
+02_database/*.db
+*.sqbpro
+
+# Jupyter cache.
+.ipynb_checkpoints/
+__pycache__/
