@@ -8,7 +8,7 @@ Project question: How have agricultural production, climate variability, and mar
 2. `01_data/processed` - cleaned/exported analysis datasets for Python and Power BI.
 3. `02_database` - SQLite project database.
 4. `03_sql` - recovered SQL views and database object definitions.
-5. `04_powerbi` - reserved for a Power BI dashboard file.
+5. `04_powerbi` - Power BI dashboard file: `kenya_maize_production_and_food_security.pbix`.
 6. `05_python/notebooks` - completed Python/Jupyter analysis notebook.
 7. `06_outputs` - charts and final tables exported from Python.
 8. `07_docs` - source inventory and project notes.
@@ -26,6 +26,10 @@ Food security is not determined by maize production alone. The combined evidence
 ## Python Analysis
 
 Open `05_python/notebooks/01_kenya_food_security_analysis.ipynb` in Anaconda Jupyter Notebook, then choose `Kernel` and `Restart Kernel and Run All Cells`. The notebook creates the charts and tables in `06_outputs`.
+
+## Power BI Dashboard
+
+Open `04_powerbi/kenya_maize_production_and_food_security.pbix` in Power BI Desktop. Exported dashboard screenshots are available in `06_outputs/charts` with the `powerbi_` prefix.
 
 ## Important Limitation
 
