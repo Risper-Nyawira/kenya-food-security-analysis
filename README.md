@@ -2,6 +2,10 @@
 
 Project question: How have agricultural production, climate variability, and market dynamics influenced food security across Kenya?
 
+## External catalogue record
+
+This project is publicly catalogued on [Lanfrica](https://lanfrica.com/en/record/github-risper-nyawira-kenya-food-security-analysis) under the Agriculture Socioeconomic domain. The Lanfrica entry links to this repository as the source of the project. This is a public catalogue listing, not a peer-reviewed journal publication.
+
 ## Folder Order
 
 1. `01_data/raw` - original source datasets.
