@@ -1,6 +1,6 @@
 # Kenya Food Security Project
 
-Project question: How have agricultural production, climate variability, and market dynamics influenced food security across Kenya?
+Project question: How have agricultural production, climate variability and market dynamics influenced food security across Kenya?
 
 ## External catalogue record
 
